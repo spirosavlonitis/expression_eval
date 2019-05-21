@@ -29,3 +29,4 @@ if __FILE__ == $0
 	calc = ExpressionEval.new
 	calc.start
 end
+#foo
